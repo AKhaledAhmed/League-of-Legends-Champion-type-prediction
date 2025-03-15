@@ -1,7 +1,7 @@
 # League of Legends Champion Analysis
 
 ## Overview
-This Jupyter Notebook analyzes a League of Legends dataset and applies machine learning models to predict champion types.
+Analyze a League of Legends dataset and applies machine learning models to predict champion types.
 
 ## Features
 - Cleans and preprocesses champion data.
@@ -9,17 +9,10 @@ This Jupyter Notebook analyzes a League of Legends dataset and applies machine l
 - Evaluates model performance using accuracy, classification reports, and hyperparameter tuning.
 
 ## Installation
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
-   cd YOUR_REPO
-   ```
-2. Install required dependencies:
+1. Install required dependencies:
    ```bash
    pip install -r requirements.txt
    ```
-3. Ensure you have the dataset (`LOL_champion_data.csv`) in the project directory.
-
 ## Usage
 - Open the Jupyter Notebook:
   ```bash
